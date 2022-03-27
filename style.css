@@ -15,20 +15,30 @@
 /*jumbotron*/
 .jumbotron {
   background-image: url(img/PLTS\ 1.png);
+  background-position: center;
+  background-repeat:no-repeat;
   background-size: cover;
-  height: 800px;
+  height: 100vh;
   margin-top: -100px;
 }
 .display-4 {
   margin-top: 250px;
-  text-size: 90px;
-  color: black;
-  shadow: rgb(8, 8, 8);
+  text-size: 800px;
+  color: rgb(236, 115, 2);
+  shadow: rgb(236, 15, 15);
 }
 .lead {
   margin-top: 10px;
-  color: rgb(12, 12, 12);
+  text-size: 800px;
+  color: rgb(236, 115, 2);
 }
+
+
+.class card {
+size image : 100px;
+
+}
+
 
 .footer {
   text-color: black;

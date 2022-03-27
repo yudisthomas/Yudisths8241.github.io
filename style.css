@@ -1,0 +1,35 @@
+/*navbar*/
+.navbar-brand {
+  font-size: 50px;
+}
+
+.nav-link {
+  text-transform: uppercase;
+  font-size: 24px;
+  margin-right: 60px;
+}
+.nav-link:hover {
+  border-bottom: 3px solid black;
+}
+
+/*jumbotron*/
+.jumbotron {
+  background-image: url(img/PLTS\ 1.png);
+  background-size: cover;
+  height: 800px;
+  margin-top: -100px;
+}
+.display-4 {
+  margin-top: 250px;
+  text-size: 90px;
+  color: black;
+  shadow: rgb(8, 8, 8);
+}
+.lead {
+  margin-top: 10px;
+  color: rgb(12, 12, 12);
+}
+
+.footer {
+  text-color: black;
+}

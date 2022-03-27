@@ -14,7 +14,7 @@
 
 /*jumbotron*/
 .jumbotron {
-  background-image: url(img/PLTS\ 1.png);
+  background-image: url(img/logo\ 1.jpg);
   background-position: center;
   background-repeat:no-repeat;
   background-size: cover;
@@ -30,7 +30,7 @@
 .lead {
   margin-top: 10px;
   text-size: 800px;
-  color: rgb(236, 115, 2);
+  color: rgb(241, 120, 7);
 }
 
 
